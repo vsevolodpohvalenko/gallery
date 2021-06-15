@@ -1,5 +1,4 @@
-import React from "react";
-import axios, {AxiosPromise} from 'axios'
+import axios from 'axios'
 
 
 const url = `https://api.unsplash.com/`

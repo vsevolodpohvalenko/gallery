@@ -1,4 +1,3 @@
-import React from 'react'
 import {Dispatch} from "redux";
 import {getImages} from "../api/unsplash_api";
 import {ImagesType} from "../components/gallery /gallery";
